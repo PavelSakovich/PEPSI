@@ -36,7 +36,7 @@
             else {
                 System.out.println("Исключение");
             }
-
+            System.out.println (" ");
         }
         private static int result (int firstSymbol, int secondSymbol, String operatores){
             char operator = operatores.charAt(0);
